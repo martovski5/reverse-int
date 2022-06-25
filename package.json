@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha test",
+    "runTest": "node test.js",
     "postinstall": "node postinstall.js"
   },
   "engines": {
